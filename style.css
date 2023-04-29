@@ -1,0 +1,871 @@
+
+body{
+    background-image: url(frk.PNG);
+    background-size:1100px 600px;
+    background-repeat: no-repeat;
+   
+    height: 1500px;
+   
+    
+     
+    }
+    
+    div.roro{
+        height: 35;
+        width: 1500px;
+      
+       
+      
+       
+      }
+      div.ro{
+        height: 80px;
+      
+        width: 160px;
+        clip-path: polygon(0 1%, 73% 0, 100% 98%, 100% 98%, 100% 99%, 0 100%, 0% 70%, 0% 30%);
+       
+        background-color: rgb(255, 255, 255);
+     margin-top: 13.25cm;
+        
+       
+      }
+      div.r{
+        height: 70px;
+       
+        width: 1010px;
+        
+        background-color: rgb(255, 255, 255);
+   
+        
+       
+      }
+      p.bre{
+        padding-top: 0.2cm;
+        color: #ffffff;
+      }
+   div.khra
+{
+height: 1100px;
+background-color: azure;
+}
+.fares{
+    height: 420px;
+    width: 380px;
+    float: left;
+    background-color:linear-gradient(to right, rgb(255, 166, 0), rgb(254, 143, 6));
+    margin-top:0.5cm;
+    margin-left: 3cm;
+    border-radius: 4cm;
+    border-top-right-radius:4cm ;
+    border-top-left-radius:3cm ;
+    border-bottom-right-radius:5cm ;
+    Animation-name : square-to-circle ;
+  Animation-delay : 0s ;
+  Animation-duration : 3s ;
+  Animation-iteration-count : infinite ;
+  }
+  @keyframes square-to-circle {
+    0% {
+   
+    border-top-right-radius:5cm ;
+    border-top-left-radius:3cm ;
+    border-bottom-right-radius:5cm ;
+    border-bottom-left-radius:6cm ;
+    background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+    opacity: 0.8;
+    }
+    25% {
+      border-top-right-radius:5.5cm ;
+      border-top-left-radius:2cm ;
+      border-bottom-right-radius:4.5cm ;
+      border-bottom-left-radius:6.5cm ;
+      margin-top:110px;
+      background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+      opacity: 0.8;
+  
+    }
+    50% {
+      border-top-right-radius:4cm ;
+      border-top-left-radius:1cm ;
+      border-bottom-right-radius:3cm ;
+      border-bottom-left-radius:5cm ;
+      margin-top:120px;
+      margin-left: 110px;
+      background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+      opacity: 0.8;
+    
+    }
+    75% {
+      border-top-right-radius:3.5cm ;
+      border-top-left-radius:2.5cm ;
+      border-bottom-right-radius:4cm ;
+      border-bottom-left-radius:4.5cm ;
+      margin-top:110px;
+      background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+      opacity: 0.8;
+   
+    }
+    100% {
+      border-top-right-radius:4cm ;
+    border-top-left-radius:3cm ;
+    border-bottom-right-radius:5cm ;
+    border-bottom-left-radius:4cm ;
+    background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+    opacity: 0.8;
+    
+   
+    }
+    }
+    article.f{
+      height: 34px;
+      width: 30px;
+      float: left;
+      background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+      margin-top: 0cm;
+      margin-left: 1cm ;
+      border-radius: 5cm;
+     
+      Animation-name : square ;
+    Animation-delay : 2s ;
+    Animation-duration : 3s ;
+    Animation-iteration-count : infinite ;
+    }
+    article.fa{
+      height: 25px;
+      width: 20px;
+      float: left;
+      background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+      margin-top: 0.6cm;
+      margin-left: 0.7cm;
+      
+      border-radius: 5cm;
+     
+      Animation-name : squaree ;
+    Animation-delay : 2s ;
+    Animation-duration : 3s ;
+    Animation-iteration-count : infinite ;
+    }
+    @keyframes squaree {
+      0% {
+     
+        background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+        opacity: 0.6;
+      }
+      25% {
+        background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+        opacity: 0.6;
+     
+      }
+      50% {
+      
+        opacity: 0.6;
+       
+        background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+   
+      }
+      75% {
+        background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+        opacity: 0.6;
+     
+      }
+      100% {
+        background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+        opacity: 0.6;
+     
+      }
+      }
+      @keyframes square {
+        0% {
+       
+            background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+     opacity: 0.6;
+        }
+        25% {
+            background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+          margin-top: 200px;
+          opacity: 0.6;
+        }
+        50% {
+            opacity: 0.6;
+         
+         
+            background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+     margin-top: 300px;
+     margin-left: 20px;
+        }
+        75% {
+            background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+         margin-top: 200px;
+         opacity: 0.6;
+       
+        }
+        100% {
+            background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+            opacity: 0.6;
+       
+        }}
+        section{
+            background-color: aquamarine;
+        }
+
+
+        img.hi{
+            padding-top: 6px;
+           margin-left: 20px;
+           border-left-color:brown;
+           border-width: 5px;
+           Animation-delay : 
+         2s ;
+           Animation-duration : 2s;
+           Animation-name : ircl;
+           Animation-iteration-count : infinite ;
+        }
+
+        button{
+            float: right;
+            margin-right: 2cm;
+            width: 80px;
+            height: 40px;
+            margin-top: 0.3cm;
+            color: blanchedalmond;
+            background-color: rgb(251, 147, 1);
+        }
+        a{
+            margin-left: 1cm;
+            padding-top: 0.5cm;
+            font-size: 0.5cm;
+            color: black;
+            float: right;
+            padding-right: 1cm;
+        }
+        @keyframes ircle {
+            0% {
+           
+          
+            }
+            25% {
+            
+            }
+            50% {
+            
+            }
+            75% {
+            
+            }
+            100% {
+           margin-top: 1.5cm;
+           width: 70px;
+           height:70px ;
+           padding-left: 0.2cm;
+            }
+            }
+            
+            .hi.animate {
+               padding-top: 2cm;
+               padding-left: 0.2cm;
+              }
+
+
+
+
+
+
+
+
+
+
+div.two{
+    height: 500px;
+    width: 870px;
+    background-color: #d9d9d9;
+    margin-left: 1cm;
+   
+}
+img.z{
+    margin-left: 1cm;
+    margin-top: 0.5cm;
+}
+div.one{
+    height: 500px;
+    width: 400px;
+    
+   
+    float: left;
+
+}
+img.s{
+    float: left;
+}
+div.to{
+    height: 500px;
+    width: 400px;
+    background-color: #1e049f;
+   
+    float: right;
+
+}
+
+h6{
+    margin-left: 1cm;
+    color: red;
+}
+h1{
+    margin-left: 1cm;
+    color: rgb(0, 0, 0);
+}
+p{
+    margin-left: 1cm;
+    color: rgb(0, 0, 0);
+}
+h2{
+    margin-left: 1cm;
+    color: red;
+}
+div.to{
+    background-image: url('btw.PNG');
+    width: 350px;
+    float: left;
+    background-size: cover;
+    Animation-duration : 5s;
+    Animation-name : scrollBackground;
+    Animation-iteration-count : infinite ;
+  animation-iteration-count: 2;
+  background-repeat: no-repeat;
+ 
+
+}
+
+@keyframes scrollBackground {
+    0% {
+        width: 0px;
+     
+    }
+    10% {
+        width: 40px;
+     
+    }
+    20% {
+        width: 80px;
+     
+    }
+    30% {
+        width: 120px;
+     
+    }
+    40% {
+        width: 160px;
+     
+    }
+    50% {
+        width: 200px;
+     
+    }
+    60% {
+        width:240px;
+     
+    }
+    70% {
+        width:280px;
+     
+    }
+    80% {
+        width:320px;
+     
+    }
+    90% {
+        width: 350px;
+        }
+        100% {
+            width:350px;
+            }
+            110% {
+                width:400px;
+                }
+                120% {
+                    width:400px;
+                    }
+}
+
+
+
+div.karom{
+    width: 250px;
+    height: 200px;
+    background-color: #e4d9d9;
+   margin-top: 0.5cm;
+    margin-left: 2cm;
+    float: left;
+    margin-left: 1cm;
+    opacity: 0.4;
+   
+}
+div.d{
+    width: 100px;
+    height:50px;
+    background-color: #bdb9b9;
+  margin-left:8cm;
+  margin-top: 1.5cm;
+  animation: scrollBackgroun 5s linear infinite;
+  Animation-delay : 5s ;
+  animation-iteration-count: 1;
+  opacity: 0.7;
+}
+
+@keyframes scrollBackgroun {
+    0% {
+        width: 0px;
+     
+    }
+    10% {
+        width: 10px;
+     
+    }
+    20% {
+        width: 20px;
+     
+    }
+    30% {
+        width: 30px;
+     
+    }
+    40% {
+        width: 40px;
+     
+    }
+    50% {
+        width: 50px;
+     
+    }
+    60% {
+        width: 60px;
+     
+    }
+    70% {
+        width:70px;
+     
+    }
+    80% {
+        width: 80px;
+     
+    }
+    90% {
+        width: 90px;
+        }
+        100% {
+            width:100px;
+            }
+        }
+        .x.animate {
+            animation: scr 5s linear infinite;
+            Animation-delay : 1s ;
+            animation-iteration-count: 1;
+           }
+           @keyframes scr{
+            0% {
+               padding-top: 0.5cm;
+               padding-left: 0.1cm;
+             
+            }
+            10% {
+                padding-top: 1cm;
+                padding-left: 0.2cm;
+             
+            }
+            20% {
+                padding-top: 1.5cm;
+                padding-left: 0.3cm;
+            }
+            30% {
+                padding-top: 2cm;
+               padding-left: 0.4cm;
+             
+            }
+            40% {
+                padding-top: 2.5cm;
+               padding-left: 0.5cm;
+             
+            }
+            50% {
+                padding-top: 3cm;
+                padding-left: 0.6cm;
+             
+            }
+            60% {
+                padding-top: 3.5cm;
+                padding-left: 0.6cm;
+             
+            }
+            70% {
+                padding-top: 4cm;
+                padding-left: 0.7cm;
+             
+            }
+            80% {
+                padding-top: 4.5cm;
+                padding-left: 0.8cm;
+             
+            }
+            90% {
+                padding-top:5cm;
+                padding-left: 0.9cm;
+                }
+                100% {
+                    padding-top: 20cm;
+                    padding-left: 1cm;
+                    }
+                }
+div.wel{
+    width: 1000px;
+    height: 600px;
+    background-color: black;
+    margin-top: 2cm;
+    background-image: url(usi.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+}
+div.a{
+    width: 300px;
+    height: 500px;
+ 
+float: left;
+}
+div.b{
+    width: 300px;
+    height: 500px;
+   
+float: left;
+}
+div.c{
+    width: 300px;
+    height: 500px;
+   
+float: left;
+}
+h1.t{
+    padding-top: 3cm;
+    padding-left: 1cm;
+    color: #000000;
+}
+button.mm{
+    width: 120px;
+    height: 50px;
+    background-color: #e1850c;
+    border-radius: 0.5cm;
+    color: #ffffff;
+    
+}
+
+h4{
+    padding-top: 3cm;
+    padding-left: 1cm;
+}
+img.chak{
+    padding-top: 3cm;
+    padding-left: 1cm;
+}
+h3.chocho{
+    float: right;
+    padding-top: 3cm;
+    padding-right: 1.54cm;
+    font-size: 0.5cm;
+}
+h6.kh{
+    color: #f80404;
+    float: right;
+    margin-bottom: 3cm;
+}
+h3 span{
+    color: #f80404;
+    font-size: 0.4cm;
+}
+
+
+
+img.l{
+    padding-left: 3.5cm;
+}
+div.bb{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    
+}
+div.p{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+div.pp{
+    width: 350px;
+    height:590px;
+    background-image: url(vvv.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    margin-right: 2cm;
+}
+div.ya{
+    width:120px;height: 140px;
+    background-color: #f7e6b5;
+    margin-top: 12cm;
+    background-image: url(ok.PNG);
+    background-size:120px 100px ;
+
+    
+}
+
+.ya.animate {
+    animation-iteration-count: 1;
+    animation: scrollBackg 5s ;
+    Animation-delay : 2s ;
+   
+
+   }
+
+   @keyframes scrollBackg {
+    0% {
+        width: 400px;
+    height: 600px;
+    background-image: url(vvv.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+    }
+ 
+    60% {
+        width: 170px;
+        height: 180px;
+        margin-top: 8cm;
+     
+    }
+    
+        100% {
+            width:120px;height: 140px;
+            background-color: #f7e6b5;
+            margin-top: 12cm;
+            background-image: url(ok.PNG);
+            background-size:120px 100px ;
+
+            }
+           
+}
+a.aloha{
+float: left;
+;
+font-size: 0.3cm;
+}
+h1.pro{
+    color: #e4d9d9;
+    padding-top: 1CM;
+    font-size: 0.9cm;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button.flaha{
+    float: left;
+    margin-left: 1cm;
+    width: 130px;
+    height: 50px;
+    margin-top: 1cm;
+    color: blanchedalmond;
+    background:linear-gradient(to right, rgb(245, 221, 1), rgb(254, 64, 6));
+    border-radius: 0.5cm;
+    border-color: #ffffff;
+}
+button.flah{
+    float: left;
+    margin-left:0.05cm;
+    width: 80px;
+    height: 40px;
+    margin-top: 1cm;
+    color: blanchedalmond;
+    background-color: rgb(251, 147, 1);
+    border-radius: 0.5cm;
+}
+ h1.youssra{
+    float: right;
+    padding-top: 5cm;
+    padding-right: 2cm;
+    color: #ffffff;
+    font-size: 1cm;
+
+ }
+ img.hii{
+    padding-top: 6px;
+   margin-left: 20px;
+   border-left-color:brown;
+   border-width: 5px;
+   Animation-delay : 
+ 5s ;
+   Animation-duration : 2s;
+   Animation-name : ircl;
+   Animation-iteration-count : infinite ;
+   animation-timing-function: ease-in-out;
+   animation-fill-mode: forwards;
+   opacity: 1;
+}
+img.hii.animate{
+    Animation-delay : 
+   0s ;
+      Animation-duration : 15s;
+      Animation-name : icl;
+      Animation-iteration-count : infinite ;
+      animation-iteration-count: 1;
+
+}
+@keyframes icl {
+    0% {
+   
+     
+      opacity: 0.1;
+    }
+    25% {
+      
+      opacity: 0.2;
+   
+    }
+    50% {
+    
+      opacity: 0.4;
+     
+     
+ 
+    }
+    75% {
+     
+      opacity: 0.6;
+   
+    }
+    100% {
+      
+        opacity: 1;
+   
+    }
+    }
+
+
+
+
+    h1.mes{
+        color: #ffffff;
+    }
+    p.darbo{
+        text-align: left;
+        color: #000000;
+        opacity: 1;
+    }
+    h1.o{ padding-top: 0.3cm;
+        color: #ffffff;
+        font-size: 0.5cm;
+    }
+    h1.o.animate{
+        animation: sol 5s linear infinite;
+        Animation-delay : 1s ;
+        animation-iteration-count: 1;
+
+    }
+    @keyframes sol {
+        0% {
+      
+         font-size: 0.1cm;
+        }
+     
+        60% {
+           
+         font-size: 0.3cm;
+        }
+        
+            100% {
+               font-size: 0.5cm;
+    
+                }
+               
+    }
+    h1.ert{
+   
+    float: left;
+
+    }
+
+
+    img.zozo{
+       float: left;
+       padding-left: 0.6cm;
+    }
+
+    p.mlk{
+        float: left;
+        font-size: 0.65cm;
+    }p.ml{
+        float: left;
+        font-size: 0.45cm;
+    }
+    h1.mpo{
+        color: #f80404;
+    }
+
+
+
+    div.far{
+        width: 1000px;
+        height: 500px;
+        background-color: #ffffff;
+    }
+    div.lala{
+        width: 500px;
+        height: 500px;
+        background-color: #ffffff;
+        float: left;
+    }
+    div.gh{
+        width: 500px;
+        height: 500px;
+      
+        float: right;
+        background-image: url(frk.PNG);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    img.bn{
+        float: left;  
+    }
+    h1.dada{
+        float: left;
+      
+    }
+    p.moh{
+        padding-left: 0.5cm;
+        font-size: 0.55cm;
+    }
+    h2.viva{
+        color: #ff0000;
+    }
+
+
+    div.maamer{
+        width: 1000px;
+        height: 500px;
+        background-color: #ffffff;
+    }
+    div.maa{
+        width: 500px;
+        height: 500px;
+        background-color: #ffffff;
+        float:right;
+    }
+    div.mnb{
+        width: 500px;
+        height: 500px;
+      
+        float: left;
+        background-image: url(soso.PNG);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    div.kram{
+    margin-top: 3cm;
+        width: 1000px;
+        height: 800px;
+        background-color: #2b296d;
+    }
